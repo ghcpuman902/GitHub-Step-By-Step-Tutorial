@@ -1,5 +1,8 @@
 # GitHub 傻瓜手把手教程
 
+目录
+[用GitHub提交修改申请到原文](#commit)
+
 GitHub界面超难用有木有！每个名字都取的很高深看不懂有木有！查出来的解释也很高深还是看不懂有木有！
 
 没事！
@@ -102,6 +105,15 @@ _为此请求写个注释呗？_
 
 但看新方法之前我们先看看如何用GitHub实现我们的方法一：**提交修改申请到原文件**。
 
-## 用GitHub提交修改申请到原文（Commit）
+## 用GitHub提交修改申请到原文（Commit<a name="commit"></a>）
 
-首先打开
+
+首先看一下浏览器的网址列，确定你现在在[https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S)。
+
+假如不在的话，点击[这里](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S)打开。
+
+打开之后你应该会看到这个页面：
+![commit step 1 - oepn text file](commit_step_1_oepn_text_file.jpg)
+1. 点击`南北撕逼.txt`，如图所示
+
+2. 
