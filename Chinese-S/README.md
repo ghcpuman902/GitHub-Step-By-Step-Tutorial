@@ -112,9 +112,8 @@ _为此请求写个注释呗？_
 
 假如不在的话，点击[这里](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S)打开。
 
-打开之后你应该会看到这个页面：
-![commit step 1 - oepn text file](img/commit_step_1_oepn_text_file.jpg)
 1. 点击来打开`南北撕逼.txt`，如图所示
+![commit step 1 - oepn text file](img/commit_step_1_oepn_text_file.jpg)
 
 2. 点击小铅笔（Edit this file）图标，对文件进行编辑。
 ![commit step 2 - edit text file](img/commit_step_2_edit_text_file.jpg)
