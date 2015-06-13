@@ -98,6 +98,7 @@ _为此请求写个注释呗？_
 **$System** \> _确定提交修改吗？是/否_   
 **$South南南** \> 是  
 
+虽然这样**Master大老板**不会被系统提醒烦到，  
 但他俩这样乱改原文件还是会被开除对吧\_(:3」∠)\_。。。  
 
 所以GitHub其实提供了其他方法可以让你把原文件复制一份，做出修改，再一次向大老板请求合并到原文件的。  
@@ -105,15 +106,20 @@ _为此请求写个注释呗？_
 
 但看新方法之前我们先看看如何用GitHub实现我们的方法一：**提交修改申请到原文件**。
 
-## 用GitHub提交修改申请到原文（Commit<a name="commit"></a>）
+## 用GitHub提交修改申请到原文（也就是所谓的Commit<a name="commit"></a>）
 
-
-首先看一下浏览器的网址列，确定你现在在[https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S)。
+首先看一下浏览器的网址列，确定你现在在[https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S),滚到页面最上面。
 
 假如不在的话，点击[这里](https://github.com/ghcpuman902/GitHub-Step-By-Step-Tutorial/tree/master/Chinese-S)打开。
 
 1. 点击来打开`南北撕逼.txt`，如图所示
 ![commit step 1 - oepn text file](img/commit_step_1_oepn_text_file.jpg)
+可以在图片中看到左上角
 
 2. 点击小铅笔（Edit this file）图标，对文件进行编辑。
 ![commit step 2 - edit text file](img/commit_step_2_edit_text_file.jpg)
+
+3. 在每个食物下面写下你喜欢的吃法
+![commit step 3 - editing text file](img/commit_step_3_editing_text_file.jpg)
+
+
